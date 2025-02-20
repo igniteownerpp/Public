@@ -8,8 +8,8 @@ CHANNELS = ['@paidserver07', '@LostBoiServer']
 attack_in_progress = {}
 user_attack_count = {}
 approved_users = set()
-MAX_ATTACKS = 5
-DAILY_LIMIT = 10
+MAX_ATTACKS = 3
+DAILY_LIMIT = 25
 ACTIVE_ATTACKS_FILE = 'active.txt'
 BLOCKED_PORTS = {'8700', '20000', '443', '17500', '9031','20002', '20001'}  # Blocked ports
 

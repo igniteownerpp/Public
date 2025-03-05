@@ -16,7 +16,7 @@ ADMINS = {1604629264}  # Add more admin IDs if needed
 OWNER_ID = 1604629264
 
 # Attack settings
-nxtlvl_PATH = "./LEGEND"
+nxtlvl_PATH = "./soulcracks"
 MAX_CONCURRENT_ATTACKS = 3  # Set the maximum number of concurrent attacks
 
 # Blocked Ports
